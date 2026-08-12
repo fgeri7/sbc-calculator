@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.fgeri7.sbccalc",
+        "sha256_cert_fingerprints": ["79:F0:CE:EC:E9:9E:DF:C0:74:09:2D:44:48:A5:3E:54:45:14:83:31:74:7D:6C:82:D6:16:A7:FC:FD:E5:46:8C"]
+      }
+    }]
